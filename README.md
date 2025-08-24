@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello World, I'm a frog 🐸
 
-<!--
-**Astrafrog/Astrafrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="center">
+  <img src="https://media.easy-peasy.ai/27feb2bb-aeb4-4a83-9fb6-8f3f2a15885e/27ccd3fa-a8ca-4d1b-bc9a-5bc6ee05c9b1.png" alt="Frog" width="300"/>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just a frog in a digital pond, ribbiting code.
+
+----------
+
+**🌱 Currently Learning:** `Go`, `Rust`, `How to exit Vim`
+**🤝 How to reach me:** `[your.email@domain.com]`
+
+*"Welcome to my pond. Mind the bugs."*
