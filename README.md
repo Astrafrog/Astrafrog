@@ -1,4 +1,4 @@
-# Hello World, I'm a frog 🐸
+# Hello World, I'm a Frog 🐸
 
 <br>
 <p align="center">
@@ -11,7 +11,6 @@ Just a frog in a digital pond, ribbiting code.
 
 ----------
 
-**🌱 Currently Learning:** `Go`, `Rust`, `How to exit Vim`
-**🤝 How to reach me:** `[your.email@domain.com]`
+**🌱 Currently Learning:** `JavaScript`
 
 *"Welcome to my pond. Mind the bugs."*
